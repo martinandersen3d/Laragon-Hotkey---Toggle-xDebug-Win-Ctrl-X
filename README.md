@@ -1,5 +1,5 @@
-# Laragon-Hotkey---Toggle-xDebug-Win-Ctrl-X
-Laragon Hotkey - Toggle xDebug Win+Ctrl+X
+# Laragon Hotkey - Toggle xDebug with Win-Ctrl-X
+
 
 Installation:
 download the exe file and put it in your start folder.
