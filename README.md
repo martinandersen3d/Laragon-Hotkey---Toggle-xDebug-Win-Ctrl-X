@@ -1,4 +1,4 @@
-# Laragon Hotkey - Toggle xDebug with Win-Ctrl-X
+# Laragon Hotkey - Toggle xDebug On/Off in Laragon with hotkey Win+Ctrl+X
 
 
 Installation:
